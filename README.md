@@ -1,0 +1,1 @@
+This is my pygame cooking game! It features a variety of breakfast foods that the player must make according to the customer's order, and after submitting it the player is scored based on how accurately they made the order. This is the biggest project I've worked on, and all of the art was created by me!
